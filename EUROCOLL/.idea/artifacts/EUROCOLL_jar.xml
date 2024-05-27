@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="EUROCOLL:jar">
+    <output-path>$PROJECT_DIR$/../EUROCOLL_jar</output-path>
+    <root id="archive" name="EUROCOLL.jar">
+      <element id="module-output" name="EUROCOLL" />
+    </root>
+  </artifact>
+</component>
